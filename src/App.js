@@ -6,6 +6,7 @@ import Register from "../src/components/Register";
 import Login from "../src/components/Login";
 import Information from "./components/Informations/Information";
 function App() {
+  //test cicd
   return (
     <Router>
       <Layout>
